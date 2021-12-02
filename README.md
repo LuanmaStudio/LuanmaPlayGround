@@ -6,3 +6,5 @@
 UI
 UniTask
 DOtween
+
+# Unity版本 2020.3.17f
