@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*******************************************************************
+* Description:冷却工具
+* Version: 1.0.0
+* Date: 2021/12/13
+* Author: Ender
+*******************************************************************/
+using System.Collections;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 

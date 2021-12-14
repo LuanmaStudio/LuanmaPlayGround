@@ -1,4 +1,10 @@
-﻿using System.Collections.Generic;
+﻿/*******************************************************************
+* Description:事件中心管理器
+* Version: 1.0.0
+* Date: 2021/12/13
+* Author: Ender
+*******************************************************************/
+using System.Collections.Generic;
 using UnityEngine;
 using Unity;
 using UnityEngine.Events;

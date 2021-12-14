@@ -1,4 +1,9 @@
-﻿
+﻿/*******************************************************************
+* Description:玩家的血量
+* Version: 1.0.0
+* Date: 2021/12/13
+* Author: Ender
+*******************************************************************/
 using UnityEngine;
 
 public class PlayerHealth : ImmuneHealth
@@ -16,5 +21,6 @@ public class PlayerHealth : ImmuneHealth
     
     private void Hit(bool isDead,HitInstance hit)
     {
+        
     }
 }
